@@ -1,1 +1,1 @@
-#One Month Rails - sample pinteresting app
+One Month Rails - sample pinteresting app
